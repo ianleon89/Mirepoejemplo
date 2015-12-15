@@ -12,6 +12,7 @@
 #include "type.h"
 #include "adc.h"
 //como la tenes adentro cheddddssddssdfdffs
+// LA pppp23r321!
 volatile uint32_t ADC0Value[ADC_NUM];
 volatile uint32_t ADC0IntDone = 0;
 
